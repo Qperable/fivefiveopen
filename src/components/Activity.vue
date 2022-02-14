@@ -37,7 +37,7 @@
         <div>
           <div class="card_item">
             <a href="https://kobalab.net/majiang/">
-              <img src="../assets/s麻将.png" width="150px" height="150px" />
+              <img src="../assets/麻将.png" width="150px" height="150px" />
             </a>
             <div class="base_info">
               <p>国庆足球活动</p>
