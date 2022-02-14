@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <p>在线等一个五黑</p>
+    <p>在线等一个五黑官方网站</p>
   </div>
 </template>
 

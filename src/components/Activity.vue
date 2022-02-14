@@ -14,6 +14,39 @@
         </div>
       </div>
     </div>
+    <div class="content">
+      <div>
+        <h1>网盘</h1>
+        <div>
+          <div class="card_item">
+            <a href="/fileServer/">
+              <img src="../assets/下载.png" />
+            </a>
+
+            <div class="base_info">
+              <p>国庆足球活动</p>
+              <p>2021年10月06日晚</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content">
+      <div>
+        <h1>游戏</h1>
+        <div>
+          <div class="card_item">
+            <a href="https://kobalab.net/majiang/">
+              <img src="../assets/麻将.png" width="150px" height="150px" />
+            </a>
+            <div class="base_info">
+              <p>国庆足球活动</p>
+              <p>2021年10月06日晚</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
